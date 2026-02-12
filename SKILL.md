@@ -1,11 +1,9 @@
 ---
 name: faith-deconstruction-companionship
-description: A practice for walking alongside someone who is questioning, leaving,
-  or reconstructing their inherited faith - derived from Rachel Held Evans' pioneering
-  approach to public, vulnerable faith quest...
+description: A practice for walking alongside someone who is questioning, leaving, or reconstructing their inherited faith - derived from Rachel Held Evans' pioneering approach to public, vulnerable faith quest...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - faith-deconstruction-companionship
@@ -402,4 +400,3 @@ Derived from Rachel Held Evans' writings, blog, and community-building approach,
 
 **Why this works:**
 This example demonstrates the key principles of the skill by [explanation of what makes it effective].
-
